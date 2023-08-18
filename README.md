@@ -1,7 +1,3 @@
-# Week10Challenge
+# Professional README Generator Starter Code
 
-# This is to create a professional readme file.
-
-# This will include how to install it,
-# How to report issues
-# How to make Contributions
+[How to create a Professional README](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
